@@ -91,6 +91,8 @@ This project was created to:
 
 ## 📊 Screenshot
 
+![Screenshot 2024-11-25 115006](https://github.com/user-attachments/assets/e677abad-05c3-4929-9774-39b9a6cc87d8)
+
 ## 🌐 Live Demo
 
 Link to live project: [APEX-Dashboard](https://apex-dashboard.onrender.com)
